@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844416587568",
+    "project_id": "avocadoslice",
+    "storage_bucket": "avocadoslice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844416587568:android:15d2e2e9b604a5d3959af5",
+        "android_client_info": {
+          "package_name": "com.example.avocadoslice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1nyRg0XgbGQARO0iW2cYPUbK6eCEQR0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
